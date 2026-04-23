@@ -1,14 +1,16 @@
-title: Project title in sentence case
-hero_image: images/banner.png
-description: A short description of the project
+hero_image: images/step_4_output.png
+description: Make a retro arcade promo page with a CSS marquee and automatic arcade demo.
 listed: false
 pdf: false
+landing: true
 steps:
-  - title: What you will make
-  - title: Step title
+  - title: 'Build the promo sign'
+  - title: 'Make the words move'
     completion:
-      - engaged      
-  - title: Challenge
-    challenge: true
+      - 'engaged'
+  - title: 'Turn up the arcade style'
     completion:
-      - external
+      - 'internal'
+  - title: 'Remix your advert'
+    completion:
+      - 'external'

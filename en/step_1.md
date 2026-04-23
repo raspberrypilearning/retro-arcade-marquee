@@ -1,45 +1,34 @@
-## What you will make
-OR
-## What you will do - change meta if you use this
+<h2 class="c-project-heading--task">Build the promo sign</h2>
 
-A brief description - one or two sentences. 
+Add the HTML for a marquee sign that will hold your made-up arcade advert.
 
---- print-only ---
+The animation at the top is already set up in helper files, so begin inside the `promo-zone` section of `index.html`.
 
-![ALT TEXT](images/IMAGE.png)
+<div class="c-project-code">
 
---- /print-only ---
+--- code ---
+---
+language: html
+filename: index.html
+line_numbers: true
+line_number_start: 25
+line_highlights: 27-31
+---
+      <section class="promo-zone" aria-labelledby="promo-title">
+        <h2 id="promo-title">Your game advert</h2>
+        <!-- The marquee is your scrolling advert for an invented arcade game. -->
+        <div class="marquee" aria-label="Scrolling arcade advert">
+          <p class="marquee__text">NOW PLAYING: LASER HAMSTER XTREME</p>
+        </div >
+      </section>
+--- /code ---
 
---- no-print ---
-
-[Editor embed](https://editor.raspberrypi.org/en/embed/viewer/project-slug)
-
---- /no-print ---
-
---- no-print ---
-
-Video embed
-
-<video width="640" height="360" controls>
-<source src="images/videoname.mp4" type="video/mp4">
-</video>
-
-Youtube embed 
-<html>
-<div style="position: relative; overflow: hidden; padding-top: 56.25%;">
-<iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/XXXXXXXXX?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">
-</iframe>
-</div><br>
-</html>
-
-Scratch embed
-<div class="scratch-preview">
- <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/XXXXXXXXX/?autostart=false" frameborder="0"></iframe>
 </div>
 
---- /no-print ---
+<h2 class="c-project-heading--task">Test</h2>
 
-### You will need:
-- a
-- b
-- c
+Your page should show the arcade demo at the top and your advert words underneath it.
+
+<div class="c-project-output">
+  <img src="images/step_1_output.png" alt="Observed project output after this step.">
+</div>

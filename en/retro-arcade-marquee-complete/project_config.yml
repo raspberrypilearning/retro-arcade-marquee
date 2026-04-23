@@ -1,0 +1,4 @@
+name: "Retro Arcade Marquee"
+identifier: "retro-arcade-marquee-complete"
+type: 'html'
+build: true
