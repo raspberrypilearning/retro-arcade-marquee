@@ -12,7 +12,7 @@ language: html
 filename: index.html
 line_numbers: true
 line_number_start: 26
-line_highlights: 27
+line_highlights: 28
 ---
         <div class="marquee" aria-label="Scrolling arcade advert">
           <p class="marquee-text">
