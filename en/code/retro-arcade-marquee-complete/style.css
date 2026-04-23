@@ -172,7 +172,7 @@ h1 {
   transform: rotate(-1deg);
 }
 
-.marquee__text {
+.marquee-text {
   display: inline-block;
   min-width: max-content;
   margin: 0;
@@ -207,14 +207,14 @@ h1 {
     height: 220px;
   }
 
-  .marquee__text {
+  .marquee-text {
     font-size: 1.5rem;
   }
 }
 
 @media (prefers-reduced-motion: reduce) {
   .laser,
-  .marquee__text {
+  .marquee-text {
     animation: none;
   }
 }

@@ -2,7 +2,7 @@
 
 Change the marquee message so it advertises a ridiculous arcade game you invented.
 
-Edit the words inside `.marquee__text` in `index.html`, and make the title as silly, dramatic, or over-the-top as you like.
+Edit the words inside `.marquee-text` in `index.html`, and make the title as silly, dramatic, or over-the-top as you like.
 
 <div class="c-project-code">
 
@@ -11,11 +11,11 @@ Edit the words inside `.marquee__text` in `index.html`, and make the title as si
 language: html
 filename: index.html
 line_numbers: true
-line_number_start: 28
-line_highlights: 3-5
+line_number_start: 27
+line_highlights: 29
 ---
         <div class="marquee" aria-label="Scrolling arcade advert">
-          <p class="marquee__text">
+          <p class="marquee-text">
             NOW PLAYING: LASER HAMSTER XTREME &#9889; WIN THE GALAXY &#9889; FREE LASERS WITH EVERY MOON BURGER
           </p>
         </div >

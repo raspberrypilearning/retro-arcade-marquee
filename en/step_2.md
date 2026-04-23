@@ -12,7 +12,7 @@ language: css
 filename: style.css
 line_numbers: true
 line_number_start: 126
-line_highlights: 3,16-24
+line_highlights: 129,142-150
 ---
 /* This animation moves the advert text across the sign. */
 .marquee {
@@ -20,7 +20,7 @@ line_highlights: 3,16-24
   overflow: hidden;
 }
 
-.marquee__text {
+.marquee-text {
   display: inline-block;
   min-width: max-content;
   margin: 0;

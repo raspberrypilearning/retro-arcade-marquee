@@ -12,7 +12,7 @@ language: css
 filename: style.css
 line_numbers: true
 line_number_start: 126
-line_highlights: 5-8,18-25
+line_highlights: 130-133,143-150
 ---
 .marquee {
   width: 100%;
@@ -23,7 +23,7 @@ line_highlights: 5-8,18-25
   transform: rotate(-1deg);
 }
 
-.marquee__text {
+.marquee-text {
   display: inline-block;
   min-width: max-content;
   margin: 0;

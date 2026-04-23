@@ -11,14 +11,14 @@ The animation at the top is already set up in helper files, so begin inside the 
 language: html
 filename: index.html
 line_numbers: true
-line_number_start: 25
-line_highlights: 27-31
+line_number_start: 24
+line_highlights: 26-30
 ---
       <section class="promo-zone" aria-labelledby="promo-title">
         <h2 id="promo-title">Your game advert</h2>
         <!-- The marquee is your scrolling advert for an invented arcade game. -->
         <div class="marquee" aria-label="Scrolling arcade advert">
-          <p class="marquee__text">NOW PLAYING: LASER HAMSTER XTREME</p>
+          <p class="marquee-text">NOW PLAYING: LASER HAMSTER XTREME</p>
         </div >
       </section>
 --- /code ---
