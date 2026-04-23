@@ -4,6 +4,8 @@ Create a modern CSS version of the old scrolling marquee effect.
 
 The old HTML `<marquee>` tag is deprecated, so use `animation` and `@keyframes` in `style.css` to make the text travel across the sign.
 
+Add this code to the bottom of the `style.css` file.
+
 <div class="c-project-code">
 
 --- code ---
@@ -11,8 +13,8 @@ The old HTML `<marquee>` tag is deprecated, so use `animation` and `@keyframes` 
 language: css
 filename: style.css
 line_numbers: true
-line_number_start: 126
-line_highlights: 129,142-150
+line_number_start: 182
+line_highlights: 
 ---
 /* This animation moves the advert text across the sign. */
 .marquee {
@@ -43,7 +45,7 @@ line_highlights: 129,142-150
 
 <h2 class="c-project-heading--task">Test</h2>
 
-Your message should slide from the right side of the sign to the left.
+Run your code. Your message should slide from the right side of the sign to the left.
 
 <div class="c-project-output">
   <img src="images/step_2_output.png" alt="Observed project output after this step.">

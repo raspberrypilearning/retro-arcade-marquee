@@ -1,5 +1,11 @@
 <h2 class="c-project-heading--task">Build the promo sign</h2>
 
+### Step 1
+
+Run your code to see what you start with.
+
+### Step 2
+
 Add the HTML for a marquee sign that will hold your made-up arcade advert.
 
 The animation at the top is already set up in helper files, so begin inside the `promo-zone` section of `index.html`.
@@ -11,8 +17,8 @@ The animation at the top is already set up in helper files, so begin inside the 
 language: html
 filename: index.html
 line_numbers: true
-line_number_start: 24
-line_highlights: 26-30
+line_number_start: 23
+line_highlights: 26-28
 ---
       <section class="promo-zone" aria-labelledby="promo-title">
         <h2 id="promo-title">Your game advert</h2>
@@ -27,7 +33,7 @@ line_highlights: 26-30
 
 <h2 class="c-project-heading--task">Test</h2>
 
-Your page should show the arcade demo at the top and your advert words underneath it.
+Run your code. Your page should show the arcade demo at the top and your advert words underneath it.
 
 <div class="c-project-output">
   <img src="images/step_1_output.png" alt="Observed project output after this step.">
