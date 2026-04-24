@@ -1,31 +1,34 @@
-<h2 class="c-project-heading--task">Remix your advert</h2>
+<h2 class="c-project-heading--task">Add arcade glow</h2>
 
-Change the marquee message so it advertises a ridiculous arcade game you invented.
+Turn the strip into a proper arcade sign with a border, a glow, and a slight tilt.
 
-Edit the words inside `.marquee-text` in `index.html`, and make the title as silly, dramatic, or over-the-top as you like.
+Keep working in the `.marquee` rule in `marquee.css`.
 
 <div class="c-project-code">
 
 --- code ---
 ---
-language: html
-filename: index.html
+language: css
+filename: marquee.css
 line_numbers: true
-line_number_start: 24
-line_highlights: 26
+line_number_start: 2
+line_highlights: 4-7
 ---
-        <div class="marquee" aria-label="Scrolling arcade advert">
-          <p class="marquee-text">
-            NOW PLAYING: LASER HAMSTER XTREME &#9889; WIN THE GALAXY &#9889; FREE LASERS WITH EVERY MOON BURGER
-          </p>
-        </div >
+.marquee {
+  overflow: hidden;
+  padding: 8px 0;
+  border: 6px double var(--yellow);
+  background: #050014;
+  box-shadow: 0 0 18px var(--pink), inset 0 0 18px rgba(255, 223, 77, 0.25);
+  transform: rotate(-1deg);
+}
 --- /code ---
 
 </div>
 
 <h2 class="c-project-heading--task">Test</h2>
 
-Your marquee should now advertise your own ridiculous arcade game.
+Your marquee should glow and lean a tiny bit like an arcade sign.
 
 <div class="c-project-output">
   <img src="images/step_4_output.png" alt="Observed project output after this step.">

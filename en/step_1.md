@@ -1,14 +1,8 @@
-<h2 class="c-project-heading--task">Build the promo sign</h2>
+<h2 class="c-project-heading--task">Add the promo text</h2>
 
-### Step 1
+Add a scrolling advert area above the arcade demo.
 
-Run your code to see what you start with.
-
-### Step 2
-
-Add the HTML for a marquee sign that will hold your made-up arcade advert.
-
-The animation at the top is already set up in helper files, so begin inside the `promo-zone` section of `index.html`.
+`marquee.css` is already linked in the page, so begin by putting the marquee HTML inside the `promo-zone` section of `index.html`.
 
 <div class="c-project-code">
 
@@ -17,14 +11,14 @@ The animation at the top is already set up in helper files, so begin inside the 
 language: html
 filename: index.html
 line_numbers: true
-line_number_start: 21
-line_highlights: 24-26
+line_number_start: 18
+line_highlights: 20-22
 ---
       <section class="promo-zone" aria-labelledby="promo-title">
         <h2 id="promo-title">Promo:</h2>
-        <!-- The marquee is your scrolling promo for an invented arcade game. -->
+        <!-- Add your scrolling promo inside this section. -->
         <div class="marquee" aria-label="Scrolling arcade advert">
-          <p class="marquee-text">NOW PLAYING: LASER HAMSTER XTREME</p>
+          <p class="marquee-text">Now playing: Laser Hamster Xtreme</p>
         </div >
       </section>
 --- /code ---
@@ -33,7 +27,7 @@ line_highlights: 24-26
 
 <h2 class="c-project-heading--task">Test</h2>
 
-Run your code. Your page should show the arcade demo at the top and your advert words underneath it.
+Your promo words should appear above the retro invaders demo.
 
 <div class="c-project-output">
   <img src="images/step_1_output.png" alt="Observed project output after this step.">

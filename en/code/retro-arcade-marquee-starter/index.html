@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Retro Arcade Marquee</title>
   <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="marquee.css">
   <script src="arcade-helper.js" defer></script>
 </head>
 <body>
@@ -14,13 +15,13 @@
       <h1>Retro Arcade Marquee</h1>
     </header>
     <main>
+      <section class="promo-zone" aria-labelledby="promo-title">
+        <h2 id="promo-title">Promo:</h2>
+        <!-- Add your scrolling promo inside this section. -->
+      </section>
       <section class="attract-screen" aria-label="Automatic arcade demo">
         <div class="screen-bar">AUTO DEMO // NO JOYSTICK NEEDED</div>
         <div id="arcade-demo" class="arcade-demo" aria-hidden="true"></div>
-      </section>
-      <section class="promo-zone" aria-labelledby="promo-title">
-        <h2 id="promo-title">Promo:</h2>
-        <!-- The marquee is your scrolling promo for an invented arcade game. -->
       </section>
     </main>
   </div>

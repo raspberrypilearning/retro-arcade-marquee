@@ -5,9 +5,11 @@
     1,
     2,
     3,
-    4
+    4,
+    5,
+    6
   ],
-  "renderer": "swift-webkit",
+  "renderer": "headless-chrome",
   "skipped_steps": [],
   "steps": {
     "1": {
@@ -29,6 +31,16 @@
       "output": "images/step_4_output.png",
       "status": "generated",
       "target": "file:///Volumes/Crucial%20X9/GitHub/ProjectShaper/retro-arcade-marquee/render_targets/step_4.html"
+    },
+    "5": {
+      "output": "images/step_5_output.png",
+      "status": "generated",
+      "target": "file:///Volumes/Crucial%20X9/GitHub/ProjectShaper/retro-arcade-marquee/render_targets/step_5.html"
+    },
+    "6": {
+      "output": "images/step_6_output.png",
+      "status": "generated",
+      "target": "file:///Volumes/Crucial%20X9/GitHub/ProjectShaper/retro-arcade-marquee/render_targets/step_6.html"
     }
   },
   "toolchain_available": true

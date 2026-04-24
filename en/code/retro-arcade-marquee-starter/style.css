@@ -46,6 +46,11 @@ body::before {
   text-shadow: 0 0 10px var(--pink), 0 0 18px var(--cyan);
 }
 
+main {
+  display: grid;
+  gap: 18px;
+}
+
 .eyebrow {
   margin: 0 0 8px;
   color: var(--yellow);
@@ -58,11 +63,6 @@ h1 {
   font-size: 3rem;
   letter-spacing: 0;
   text-transform: uppercase;
-}
-
-.tagline {
-  margin: 10px 0 0;
-  font-size: 1.15rem;
 }
 
 .attract-screen {
@@ -149,7 +149,7 @@ h1 {
 }
 
 .promo-zone {
-  padding: 26px 0 8px;
+  padding: 6px 0 0;
   text-align: center;
 }
 

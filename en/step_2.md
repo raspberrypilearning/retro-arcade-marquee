@@ -1,23 +1,21 @@
-<h2 class="c-project-heading--task">Make the words move</h2>
+<h2 class="c-project-heading--task">Make the words scroll</h2>
 
-Create a modern CSS version of the old scrolling marquee effect.
+Use CSS animation to move the message from right to left.
 
-The old HTML `<marquee>` tag is deprecated, so use `animation` and `@keyframes` in `style.css` to make the text travel across the sign.
-
-Add this code to the bottom of the `style.css` file.
+Add your first marquee rules to `marquee.css`.
 
 <div class="c-project-code">
 
 --- code ---
 ---
 language: css
-filename: style.css
+filename: marquee.css
 line_numbers: true
-line_number_start: 182
-line_highlights: 
+line_number_start: 1
+line_highlights: 2-18
 ---
+/* Add your scrolling marquee styles in this file. */
 .marquee {
-  width: 100%;
   overflow: hidden;
 }
 
@@ -29,6 +27,7 @@ line_highlights:
   animation: scroll-left 11s linear infinite;
 }
 
+/* Move the whole message across the sign. */
 @keyframes scroll-left {
   from {
     transform: translateX(100%);
@@ -44,7 +43,7 @@ line_highlights:
 
 <h2 class="c-project-heading--task">Test</h2>
 
-Run your code. Your message should slide from the right side of the sign to the left.
+Your message should slide across the page above the arcade demo.
 
 <div class="c-project-output">
   <img src="images/step_2_output.png" alt="Observed project output after this step.">
