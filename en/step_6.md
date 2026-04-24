@@ -1,6 +1,8 @@
-<h2 class="c-project-heading--task">Finish the advert</h2>
+<h2 class="c-project-heading--task">Challenge</h2>
 
 Add the last dramatic text effects, then change the message to advertise your own ridiculous game.
+
+### Step 1
 
 First, finish the `.marquee-text` rule in `marquee.css`.
 
@@ -11,13 +13,15 @@ First, finish the `.marquee-text` rule in `marquee.css`.
 language: css
 filename: marquee.css
 line_numbers: true
-line_number_start: 11
-line_highlights: 19-23
+line_number_start: 10
+line_highlights: 20-23
 ---
 .marquee-text {
   display: inline-block;
   min-width: max-content;
   margin: 0;
+  white-space: nowrap;
+  animation: scroll-left 11s linear infinite;
   padding: 18px 0;
   color: #ffffff;
   font-family: Impact, "Arial Black", sans-serif;
@@ -25,11 +29,17 @@ line_highlights: 19-23
   font-weight: 900;
   letter-spacing: 0.08em;
   text-shadow: 3px 3px 0 var(--pink), 6px 6px 0 var(--purple);
-  text-transform: uppercase;
-  white-space: nowrap;
-  animation: scroll-left 11s linear infinite;
+  text-transform: uppercase; 
 }
 --- /code ---
+
+### Step 2
+
+Open `index.html`
+
+### Step 3
+
+Update the promo text to advertise your favourite game!
 
 --- code ---
 ---

@@ -12,13 +12,13 @@ language: css
 filename: marquee.css
 line_numbers: true
 line_number_start: 2
-line_highlights: 4-7
+line_highlights: 6-8
 ---
 .marquee {
   overflow: hidden;
   padding: 8px 0;
-  border: 6px double var(--yellow);
   background: #050014;
+  border: 6px double var(--yellow);
   box-shadow: 0 0 18px var(--pink), inset 0 0 18px rgba(255, 223, 77, 0.25);
   transform: rotate(-1deg);
 }

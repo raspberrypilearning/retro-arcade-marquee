@@ -14,6 +14,7 @@ steps:
   - title: 'Style the letters'
     completion:
       - 'internal'
-  - title: 'Finish the advert'
+  - title: 'Challenge'
+    challenge: True
     completion:
       - 'external'

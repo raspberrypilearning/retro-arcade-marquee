@@ -4,6 +4,14 @@ Use CSS animation to move the message from right to left.
 
 Add your first marquee rules to `marquee.css`.
 
+### Step 1
+
+Open `marquee.css`.
+
+### Step 2
+
+Add the css code.
+
 <div class="c-project-code">
 
 --- code ---
@@ -12,7 +20,7 @@ language: css
 filename: marquee.css
 line_numbers: true
 line_number_start: 1
-line_highlights: 2-18
+line_highlights: 2-23
 ---
 /* Add your scrolling marquee styles in this file. */
 .marquee {

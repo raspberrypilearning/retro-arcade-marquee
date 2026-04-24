@@ -12,7 +12,7 @@ language: html
 filename: index.html
 line_numbers: true
 line_number_start: 18
-line_highlights: 20-22
+line_highlights: 21-22
 ---
       <section class="promo-zone" aria-labelledby="promo-title">
         <h2 id="promo-title">Promo:</h2>

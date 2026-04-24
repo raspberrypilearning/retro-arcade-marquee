@@ -11,19 +11,19 @@ Now update the `.marquee-text` rule in `marquee.css`.
 language: css
 filename: marquee.css
 line_numbers: true
-line_number_start: 11
-line_highlights: 15-18
+line_number_start: 10
+line_highlights: 16-19
 ---
 .marquee-text {
   display: inline-block;
   min-width: max-content;
   margin: 0;
+  white-space: nowrap;
+  animation: scroll-left 11s linear infinite;
   padding: 18px 0;
   color: #ffffff;
   font-family: Impact, "Arial Black", sans-serif;
   font-size: 2rem;
-  white-space: nowrap;
-  animation: scroll-left 11s linear infinite;
 }
 --- /code ---
 
