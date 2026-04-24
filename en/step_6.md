@@ -32,6 +32,7 @@ line_highlights: 20-23
   text-transform: uppercase; 
 }
 --- /code ---
+</div>
 
 ### Step 2
 
@@ -41,6 +42,7 @@ Open `index.html`
 
 Update the promo text to advertise your favourite game!
 
+<div class="c-project-code">
 --- code ---
 ---
 language: html
