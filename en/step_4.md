@@ -11,8 +11,8 @@ Edit the words inside `.marquee-text` in `index.html`, and make the title as sil
 language: html
 filename: index.html
 line_numbers: true
-line_number_start: 26
-line_highlights: 28
+line_number_start: 24
+line_highlights: 26
 ---
         <div class="marquee" aria-label="Scrolling arcade advert">
           <p class="marquee-text">

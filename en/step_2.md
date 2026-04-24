@@ -16,7 +16,6 @@ line_numbers: true
 line_number_start: 182
 line_highlights: 
 ---
-/* This animation moves the advert text across the sign. */
 .marquee {
   width: 100%;
   overflow: hidden;
