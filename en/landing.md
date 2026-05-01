@@ -1,6 +1,6 @@
 ## What you will make
 
-Make a one-page retro arcade advert with a scrolling promo sign above an automatic space-shooter demo.
+Make a scrolling promo sign above an automatic space-shooter demo.
 
 Build the marquee step by step: add the text, make it scroll, then style the sign so it looks loud enough for a ridiculous arcade game you invent.
 
