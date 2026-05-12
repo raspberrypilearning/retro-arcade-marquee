@@ -4,6 +4,8 @@ Turn the strip into a proper arcade sign with a border, a glow, and a slight til
 
 Keep working in the `.marquee` rule in `marquee.css`.
 
+You could experiment with the colours and rotate values to get different effects!
+
 <div class="c-project-code">
 
 --- code ---

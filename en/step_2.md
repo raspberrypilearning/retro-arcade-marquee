@@ -12,6 +12,8 @@ Open `marquee.css`.
 
 Add the css code.
 
+Try changing the animation speed (on line 11). 
+
 <div class="c-project-code">
 
 --- code ---

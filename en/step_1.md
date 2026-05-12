@@ -12,13 +12,15 @@ language: html
 filename: index.html
 line_numbers: true
 line_number_start: 18
-line_highlights: 21-23
+line_highlights: 21-25
 ---
       <section class="promo-zone" aria-labelledby="promo-title">
         <h2 id="promo-title">Promo:</h2>
         <!-- Add your scrolling promo inside this section. -->
         <div class="marquee" aria-label="Scrolling arcade advert">
-          <p class="marquee-text">Now playing: Laser Hamster Xtreme</p>
+          <p class="marquee-text">
+          NOW PLAYING: LASER HAMSTER XTREME
+          </p>
         </div >
       </section>
 --- /code ---

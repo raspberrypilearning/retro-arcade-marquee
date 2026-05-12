@@ -11,8 +11,8 @@ Now update the `.marquee-text` rule in `marquee.css`.
 language: css
 filename: marquee.css
 line_numbers: true
-line_number_start: 10
-line_highlights: 16-19
+line_number_start: 11
+line_highlights: 17-20
 ---
 .marquee-text {
   display: inline-block;

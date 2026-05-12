@@ -13,8 +13,8 @@ First, finish the `.marquee-text` rule in `marquee.css`.
 language: css
 filename: marquee.css
 line_numbers: true
-line_number_start: 10
-line_highlights: 20-23
+line_number_start: 11
+line_highlights: 21-24
 ---
 .marquee-text {
   display: inline-block;
