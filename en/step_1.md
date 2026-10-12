@@ -1,8 +1,8 @@
 <h2 class="c-project-heading--task">Add the promo text</h2>
 
-Add a scrolling advert area above the arcade demo.
+Add a scrolling advert area above the arcade game demo.
 
-`marquee.css` is already linked in the page, so begin by putting the marquee HTML inside the `promo-zone` section of `index.html`.
+`marquee.css` is already linked in the page, so start by putting the HTML for the marquee inside the `promo-zone` section of `index.html`.
 
 <div class="c-project-code">
 
@@ -29,8 +29,8 @@ line_highlights: 21-25
 
 <h2 class="c-project-heading--task">Test</h2>
 
-Your promo words should appear above the retro invaders demo.
+Your promo text should appear above the retro space shooter demo.
 
 <div class="c-project-output">
-  <img src="images/step_1_output.png" alt="Observed project output after this step.">
+  <img src="images/step_1_output.png" alt="A page with the titles &ldquo;CODE CLUB ARCADE&rdquo; and &ldquo;RETRO ARCADE MARQUEE&rdquo; showing a space shooter demo, with the text &ldquo;PROMO:&rdquo;, then the promo text &ldquo;NOW PLAYING: LASER HAMSTER XTREME&rdquo; above the demo. The page background is a dark purple gradient, the titles are yellow and pale yellow, and the promo text is pale yellow.">
 </div>

@@ -1,6 +1,6 @@
 title: Retro arcade marquee
 hero_image: images/step_6_output.png
-description: Make a retro arcade promo page with a scrolling CSS marquee above an automatic arcade demo.
+description: Make a retro arcade game promo page with a scrolling CSS marquee above an automatic arcade game demo
 listed: false
 pdf: false
 landing: true
@@ -10,7 +10,7 @@ steps:
     completion:
       - 'engaged'
   - title: 'Build the sign panel'
-  - title: 'Add arcade glow'
+  - title: 'Add an arcade glow'
   - title: 'Style the letters'
     completion:
       - 'internal'

@@ -1,10 +1,10 @@
-<h2 class="c-project-heading--task">Add arcade glow</h2>
+<h2 class="c-project-heading--task">Add an arcade glow</h2>
 
-Turn the strip into a proper arcade sign with a border, a glow, and a slight tilt.
+Turn the strip into a realistic arcade sign with a border, a glow, and a slight tilt.
 
 Keep working in the `.marquee` rule in `marquee.css`.
 
-You could experiment with the colours and rotate values to get different effects!
+You could experiment with the colours and rotation value to get different effects.
 
 <div class="c-project-code">
 
@@ -30,8 +30,8 @@ line_highlights: 6-8
 
 <h2 class="c-project-heading--task">Test</h2>
 
-Your marquee should glow and lean a tiny bit like an arcade sign.
+Your marquee should glow and lean a little bit, like an arcade sign.
 
 <div class="c-project-output">
-  <img src="images/step_4_output.png" alt="Observed project output after this step.">
+  <img src="images/step_4_output.png" alt="The strip with the promo text now has a yellow border and pink box shadow and runs across the screen at a slight diagonal.">
 </div>

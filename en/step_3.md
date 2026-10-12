@@ -25,8 +25,8 @@ line_highlights: 4-5
 
 <h2 class="c-project-heading--task">Test</h2>
 
-Your message should now move across a dark marquee strip.
+Your promo text should now move across a dark marquee strip.
 
 <div class="c-project-output">
-  <img src="images/step_3_output.png" alt="Observed project output after this step.">
+  <img src="images/step_3_output.png" alt="The promo text scrolling across the page on a dark purple strip.">
 </div>

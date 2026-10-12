@@ -1,10 +1,10 @@
 <h2 class="c-project-heading--task">Challenge</h2>
 
-Add the last dramatic text effects, then change the message to advertise your own ridiculous game.
+Add the last dramatic text effects, then change the promo text to advertise your own arcade game, if you have not already.
 
 ### Step 1
 
-First, finish the `.marquee-text` rule in `marquee.css`.
+Finish the `.marquee-text` rule in `marquee.css`.
 
 <div class="c-project-code">
 
@@ -36,11 +36,11 @@ line_highlights: 21-24
 
 ### Step 2
 
-Open `index.html`
+Open `index.html`.
 
 ### Step 3
 
-Update the promo text to advertise your favourite game!
+Update the promo text to advertise your own game!
 
 <div class="c-project-code">
 --- code ---
@@ -62,8 +62,8 @@ line_highlights: 23
 
 <h2 class="c-project-heading--task">Test</h2>
 
-Your marquee should now look loud and dramatic, and the words should advertise your own arcade game idea.
+Your marquee should now look eye-catching and dramatic, and the words should advertise your own arcade game idea.
 
 <div class="c-project-output">
-  <img src="images/step_6_output.png" alt="Observed project output after this step.">
+  <img src="images/step_6_output.png" alt="The promo text now has pink and purple drop shadows.">
 </div>

@@ -2,7 +2,7 @@
 
 Make the words brighter, bigger, and easier to read.
 
-Now update the `.marquee-text` rule in `marquee.css`.
+Update the `.marquee-text` rule in `marquee.css`.
 
 <div class="c-project-code">
 
@@ -34,5 +34,5 @@ line_highlights: 17-20
 The message should look larger and brighter as it scrolls past.
 
 <div class="c-project-output">
-  <img src="images/step_5_output.png" alt="Observed project output after this step.">
+  <img src="images/step_5_output.png" alt="The strip with the promo text is now larger, with a larger bold, white font.">
 </div>
