@@ -56,5 +56,5 @@ line_highlights: 2-23
 Your promo text should slide across the page above the arcade game demo.
 
 <div class="c-project-output">
-  <img src="images/step_2_output.png" alt="The space shooter demo page with the promo text &ldquo;NOW PLAYING: LASER HAMSTER XTREME&rdquo; scrolling across the page from right to left above the demo.">
+  <img src="images/step_2_output.png" alt="The space shooter demo page with the promo text “Now playing: Laser Hamster Xtreme” scrolling across the page from right to left above the demo.">
 </div>

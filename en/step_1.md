@@ -19,7 +19,7 @@ line_highlights: 21-25
         <!-- Add your scrolling promo inside this section. -->
         <div class="marquee" aria-label="Scrolling arcade advert">
           <p class="marquee-text">
-          NOW PLAYING: LASER HAMSTER XTREME
+          Now playing: Laser Hamster Xtreme
           </p>
         </div >
       </section>
@@ -32,5 +32,5 @@ line_highlights: 21-25
 Your promo text should appear above the retro space shooter demo.
 
 <div class="c-project-output">
-  <img src="images/step_1_output.png" alt="A page with the titles &ldquo;CODE CLUB ARCADE&rdquo; and &ldquo;RETRO ARCADE MARQUEE&rdquo; showing a space shooter demo, with the text &ldquo;PROMO:&rdquo;, then the promo text &ldquo;NOW PLAYING: LASER HAMSTER XTREME&rdquo; above the demo. The page background is a dark purple gradient, the titles are yellow and pale yellow, and the promo text is pale yellow.">
+  <img src="images/step_1_output.png" alt="A page with the titles “CODE CLUB ARCADE” and “RETRO ARCADE MARQUEE” showing a space shooter demo, with the text “PROMO:”, then the promo text “Now playing: Laser Hamster Xtreme” above the demo. The page background is a dark purple gradient, the titles are yellow and pale yellow, and the promo text is pale yellow.">
 </div>

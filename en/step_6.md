@@ -53,7 +53,7 @@ line_highlights: 23
 ---
         <div class="marquee" aria-label="Scrolling arcade advert">
           <p class="marquee-text">
-            NOW PLAYING: LASER HAMSTER XTREME &#9889; WIN THE GALAXY &#9889; FREE LASERS WITH EVERY MOON BURGER
+            Now playing: Laser Hamster Xtreme &#9889; Win the galaxy &#9889; Free lasers with every moon burger
           </p>
         </div >
 --- /code ---
@@ -65,5 +65,5 @@ line_highlights: 23
 Your marquee should now look eye-catching and dramatic, and the words should advertise your own arcade game idea.
 
 <div class="c-project-output">
-  <img src="images/step_6_output.png" alt="The promo text now has pink and purple drop shadows.">
+  <img src="images/step_6_output.png" alt="The promo text “NOW PLAYING: LASER HAMSTER XTREME” is now in capital letters, with pink and purple drop shadows.">
 </div>
