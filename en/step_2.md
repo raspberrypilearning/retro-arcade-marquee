@@ -4,7 +4,11 @@ Use CSS animation to move the promo text from right to left.
 
 Add your first marquee rules to `marquee.css`.
 
+### Step 1
+
 Open `marquee.css`.
+
+### Step 2
 
 Add the CSS code.
 
