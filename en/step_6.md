@@ -2,8 +2,6 @@
 
 Add the last dramatic text effects, then change the promo text to advertise your own arcade game, if you have not already.
 
-### Step 1
-
 Finish the `.marquee-text` rule in `marquee.css`.
 
 <div class="c-project-code">
@@ -34,11 +32,7 @@ line_highlights: 21-24
 --- /code ---
 </div>
 
-### Step 2
-
 Open `index.html`.
-
-### Step 3
 
 Update the promo text to advertise your own game!
 
